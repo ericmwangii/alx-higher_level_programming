@@ -1,1 +1,1 @@
-Sprit 2- Learning Python!
+Sprint 2- Learning Python!
